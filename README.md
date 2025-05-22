@@ -9,7 +9,7 @@ I'm currently practicing my programming skills and learning more simulation tool
 - Interests: Nuclear reactors, Computer simulation, and Sustainable energy\
 
 ## Projects
-[WIP]
+* openmc-pwr-burnup: OpenMC Burnup Simulation for a Pressurized Water Reactor (PWR)
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/nate-merrow-9a740428a/
