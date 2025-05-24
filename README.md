@@ -6,10 +6,11 @@ I'm currently practicing my programming skills and learning more simulation tool
 ## Skills (in progress)
 - Programming: MATLAB, Python
 - Tools: OpenMC, MOOSE
-- Interests: Nuclear reactors, Computer simulation, and Sustainable energy\
+- Interests: Nuclear reactors, Computer simulation, and Sustainable energy
 
 ## Projects
 * openmc-pwr-burnup: OpenMC Burnup Simulation for a Pressurized Water Reactor (PWR)
+* openmc-pwr-full-fuel-assembly: OpenMC Simulation of a full fuel assembly (17x17) for a PWR
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/nate-merrow-9a740428a/
