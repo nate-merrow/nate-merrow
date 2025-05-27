@@ -11,6 +11,8 @@ I'm currently practicing my programming skills and learning more simulation tool
 ## Projects
 * openmc-pwr-burnup: OpenMC Burnup Simulation for a Pressurized Water Reactor (PWR)
 * openmc-pwr-full-fuel-assembly: OpenMC Simulation of a full fuel assembly (17x17) for a PWR
+* openmc-mox: OpenMC simulation of a 2x1 core with one mixed-oxide fuel and one uo2 fuel
+* openmc-mgxs: OpenMC project that generates multigroup cross section data for enriched uo2 fuel with three energy groups
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/nate-merrow-9a740428a/
